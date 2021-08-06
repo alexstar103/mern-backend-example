@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://russel:mongodbrussel@cluster0.aby2w.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  }
